@@ -1,0 +1,2158 @@
+{
+   "action_menu_activate_current_tab": {
+      "description": "Activate on current tab shortcut in the action menu",
+      "message": "Authorize this domain"
+   },
+   "action_menu_all_options": {
+      "description": "All options link in the action menu",
+      "message": "ตัวเลือกทั้งหมด"
+   },
+   "action_menu_configure_mailvelope": {
+      "description": "Configure Mailvelope label in the action menu",
+      "message": "\u003C0>กำหนดค่า Mailvelope \u003C/0>เพื่อเริ่มใช้งาน"
+   },
+   "action_menu_dashboard_description": {
+      "description": "Dashboard description in the action menu",
+      "message": "Display all configuration options."
+   },
+   "action_menu_dashboard_label": {
+      "description": "Dashboard label in the action menu",
+      "message": "กระดานแสดงข้อมูล"
+   },
+   "action_menu_file_encryption_description": {
+      "description": "File encryption description in the action menu",
+      "message": "Encrypt one or multiple files."
+   },
+   "action_menu_file_encryption_label": {
+      "description": "File encryption label in the action menu",
+      "message": "File encryption"
+   },
+   "action_menu_help": {
+      "description": "Online help shortcut.",
+      "message": "ช่วยเหลือ"
+   },
+   "action_menu_keyring_description": {
+      "description": "Keyring description in the action menu",
+      "message": "Manage public and private keys."
+   },
+   "action_menu_keyring_label": {
+      "description": "Keyring label in the action menu",
+      "message": "Keyring"
+   },
+   "action_menu_primary_menu_aria_label": {
+      "description": "Accessibility, aria label of the primary menu",
+      "message": "เมนูหลัก Mailvelope"
+   },
+   "action_menu_reload_extension_scripts": {
+      "description": "Reload extension scripts shortcut in the action menu",
+      "message": "Reload Mailvelope"
+   },
+   "action_menu_review_security_logs_description": {
+      "description": "Review security logs description in the action menu",
+      "message": "Review security relevant user actions."
+   },
+   "action_menu_review_security_logs_label": {
+      "description": "Review security logs label in the action menu",
+      "message": "Security log"
+   },
+   "action_menu_setup_menu_aria_label": {
+      "description": "Accessibility, aria label of the setup menu",
+      "message": "เมนูติดตั้ง Mailvelope"
+   },
+   "action_menu_setup_new_bg_description": {
+      "description": "Configure new security bg description text in the action menu",
+      "message": "The last update of Mailvelope requires you to reconfigure your security background."
+   },
+   "action_menu_setup_start_label": {
+      "description": "Start button label",
+      "message": "Let's start!"
+   },
+   "alert_header_error": {
+      "description": "Alert header of category error.",
+      "message": "ผิดพลาด"
+   },
+   "alert_header_important": {
+      "description": "Alert header of category important.",
+      "message": "Important!"
+   },
+   "alert_header_success": {
+      "description": "Alert header of category success.",
+      "message": "สำเร็จแล้ว"
+   },
+   "alert_header_warning": {
+      "description": "Alert header of category warning.",
+      "message": "คำเตือน"
+   },
+   "alert_invalid_domainmatchpattern_warning": {
+      "description": "Alert header of category warning.",
+      "message": "รูปแบบการจับคู่ของโดเมนควรเริ่มต้นด้วย '*.'"
+   },
+   "alert_no_domainmatchpattern_warning": {
+      "description": "Alert header of category warning.",
+      "message": "โดเมนต้องจับคู่อย่างน้องหนึ่งรูปแบบ"
+   },
+   "auth_domain_api_label": {
+      "description": "Label for API allowed info",
+      "message": "Allow API"
+   },
+   "auth_domain_description": {
+      "description": "Description in authorize domain dialog",
+      "message": "Would you like to allow the use of Mailvelope for the domain $1?"
+   },
+   "auth_domain_headline": {
+      "description": "Headline of authorize domain dialog.",
+      "message": "Authorize domain"
+   },
+   "change_link": {
+      "description": "Navigation link to change this setting.",
+      "message": "เปลี่ยนแปลง"
+   },
+   "cleartext_read_error": {
+      "description": "Cleartext message read error message: $1: error message.",
+      "message": "ไม่สามารถอ่านเคลียร์เท็กซ์ได้ $1"
+   },
+   "dashboard_link_encrypt_decrypt_files": {
+      "description": "Dashboard encrypt decrypt files link",
+      "message": "การเข้ารหัสลับ"
+   },
+   "dashboard_link_manage_domains": {
+      "description": "Dashboard manage domains link",
+      "message": "Authorized domains"
+   },
+   "dashboard_link_manage_keys": {
+      "description": "Dashboard manage keys link",
+      "message": "จัดการกุญแจ"
+   },
+   "dashboard_link_view_security_log": {
+      "description": "Dashboard view security logs link",
+      "message": "Security logs"
+   },
+   "decrypt_att_frame_help_text": {
+      "description": "Help text on decrypt frame with encrypted attachments or clipped armored message.",
+      "message": "Click here to view the message"
+   },
+   "decrypt_attachment_label": {
+      "description": "Label for attachments in decrypted message",
+      "message": "เอกสารแนบ"
+   },
+   "decrypt_cleartext_warning": {
+      "description": "Warning when cleartext is shown in decrypt component",
+      "message": "The following text was not encrypted."
+   },
+   "decrypt_decrypted_files_label": {
+      "description": "Decrypted files label on decrypt success page.",
+      "message": "Decrypted files"
+   },
+   "decrypt_digital_signature": {
+      "description": "Caption digital signature",
+      "message": "Signed"
+   },
+   "decrypt_digital_signature_failure": {
+      "description": "Caption digital signature",
+      "message": "ลายเซ็นไม่ถูกต้อง"
+   },
+   "decrypt_digital_signature_null": {
+      "description": "Caption digital signature",
+      "message": "Signature unknown"
+   },
+   "decrypt_digital_signature_null_info": {
+      "description": "Digital signature unknown info message",
+      "message": "Key with ID $1 not found."
+   },
+   "decrypt_digital_signature_null_info_short": {
+      "description": "Digital signature unknown short info message",
+      "message": "Key not found."
+   },
+   "decrypt_file_error_header": {
+      "description": "Header of file decryption error on decrypt result page.",
+      "message": "Decryption of file $1 is not possible."
+   },
+   "decrypt_frame_help_text": {
+      "description": "Help text on decrypt frame.",
+      "message": "Click to decrypt"
+   },
+   "decrypt_header": {
+      "description": "Header of file/text decrypt page.",
+      "message": "Decrypt data"
+   },
+   "decrypt_header_success": {
+      "description": "Header of file/text decrypt result page.",
+      "message": "Decryption successful"
+   },
+   "decrypt_home": {
+      "description": "File/text decrypting navigation: Home.",
+      "message": "ถอดรหัสลับ"
+   },
+   "decrypt_open_viewer_btn_title": {
+      "description": "Title of open message viewer icon button.",
+      "message": "Open in Mailvelope viewer"
+   },
+   "decrypt_show_message_btn": {
+      "description": "Show messsage button label in decrypt message.",
+      "message": "Show message"
+   },
+   "decrypt_signer_label": {
+      "description": "Label for signature line in decrypted message",
+      "message": "Sender"
+   },
+   "decrypt_text_area_label": {
+      "description": "Label of textarea to paste armored block in on decrypt page.",
+      "message": "Text to decrypt"
+   },
+   "decrypt_text_decryption_btn": {
+      "description": "Text decryption button label on decrypt page.",
+      "message": "Do you also want to decrypt a text?"
+   },
+   "decrypt_text_error_header": {
+      "description": "Header of text decryption error on decrypt result page.",
+      "message": "Decryption of the text is not possible."
+   },
+   "dialog_cancel_btn": {
+      "description": "Dialog cancel button label",
+      "message": "ยกเลิก"
+   },
+   "dialog_no_btn": {
+      "description": "Dialog no button label",
+      "message": "ไม่"
+   },
+   "dialog_popup_close": {
+      "description": "Close decrypt popup.",
+      "message": "ปิด"
+   },
+   "dialog_save_btn": {
+      "description": "Dialog save button label",
+      "message": "บันทึกข้อมูล"
+   },
+   "dialog_yes_btn": {
+      "description": "Dialog yes button label",
+      "message": "ใช่"
+   },
+   "editor_blur_warn": {
+      "description": "Warning for lost focus.",
+      "message": "คำเตือน Text editor โฟกัสอยู่ผิดตำแหน่ง"
+   },
+   "editor_encrypt_button": {
+      "description": "Encrypt button.",
+      "message": "การเข้ารหัสลับ"
+   },
+   "editor_error_header": {
+      "description": "",
+      "message": "ข้อผิดพลาด"
+   },
+   "editor_header": {
+      "description": "Header of editor popup.",
+      "message": "Compose Secure Email"
+   },
+   "editor_key_not_found": {
+      "description": "Warning for when a recipient key was not found.",
+      "message": "ไม่พบกุญแจ"
+   },
+   "editor_key_not_found_msg": {
+      "description": "Warning for when a recipient key was not found.",
+      "message": "ผู้รับทุกคนจำเป็นต้องมีกุญแจ PGP เพื่อเข้ารหัสลับ แต่คุณยังสามารถเซ็นข้อความได้"
+   },
+   "editor_label_attachments": {
+      "description": "Label for attachments select/drop area.",
+      "message": "เอกสารแนบ"
+   },
+   "editor_label_copy_recipient": {
+      "description": "Label for copy recipient text input.",
+      "message": "Cc"
+   },
+   "editor_label_message": {
+      "description": "Label for message textarea.",
+      "message": "ข้อความ"
+   },
+   "editor_label_recipient": {
+      "description": "Label for recipient input.",
+      "message": "ผู้รับ"
+   },
+   "editor_label_subject": {
+      "description": "Label for subject text input.",
+      "message": "Subject"
+   },
+   "editor_link_file_encryption": {
+      "description": "Navigation link to file encryption",
+      "message": "เข้ารหัสลับ"
+   },
+   "editor_no_default_key_caption_long": {
+      "description": "",
+      "message": "อีเมลไม่สามารถลงลายเซ็นดิจิตอลได้ เพราะกุญแจเริ่มต้นหายไป"
+   },
+   "editor_no_default_key_caption_short": {
+      "description": "",
+      "message": "อีเมลไม่สามารถลงลายเซ็นดิจิตอลได้"
+   },
+   "editor_remove_upload": {
+      "description": "Remove uploaded attachment",
+      "message": "ลบออก"
+   },
+   "editor_sign_button": {
+      "description": "Sign button.",
+      "message": "เซ็นเท่านั้น"
+   },
+   "editor_sign_caption_long": {
+      "description": "",
+      "message": "อีเมลจะเซ็นแบบดิจิตอล เมื่อส่งออก"
+   },
+   "editor_sign_caption_short": {
+      "description": "",
+      "message": "อีเมลจะถูกเซ็นแบบดิจิตอล"
+   },
+   "editor_transfer": {
+      "description": "Transfer button of editor popup.",
+      "message": "ถ่ายโอน"
+   },
+   "encrypt_change_signer_dialog_signer_label": {
+      "description": "Label for signer select of change signer dialog.",
+      "message": "Select signature"
+   },
+   "encrypt_change_signer_dialog_title": {
+      "description": "Titel of change signer dialog.",
+      "message": "Change signature"
+   },
+   "encrypt_dialog_no_recipient": {
+      "description": "Error message if no recipient selected.",
+      "message": "กรุณาเพิ่มผู้รับ"
+   },
+   "encrypt_download_all_button": {
+      "description": "Button to download all files",
+      "message": "Download all"
+   },
+   "encrypt_encrypted_files_label": {
+      "description": "Encrypted files label on encrypt success page.",
+      "message": "Encrypted files"
+   },
+   "encrypt_encrypted_for_label": {
+      "description": "Encrypted for label on encrypt success page.",
+      "message": "Encrypted for"
+   },
+   "encrypt_error": {
+      "description": "Error during encryption process.",
+      "message": "ไม่สามารถเข้ารหัสลับของข้อความ $1"
+   },
+   "encrypt_file_error_header": {
+      "description": "Header of file decryption error on decrypt result page.",
+      "message": "Encryption of file $1 is not possible."
+   },
+   "encrypt_frame_btn_label": {
+      "description": "Text on expanded editor button of editable email area",
+      "message": "Write secure email"
+   },
+   "encrypt_header": {
+      "description": "Header of file/text encrypt page.",
+      "message": "Encrypt data"
+   },
+   "encrypt_header_success": {
+      "description": "Header of file/text encrypt result page.",
+      "message": "Encryption successful"
+   },
+   "encrypt_home": {
+      "description": "File/text encrypting navigation: Home.",
+      "message": "การเข้ารหัสลับ"
+   },
+   "encrypt_no_signer_info": {
+      "description": "No signer info text on encrypt page.",
+      "message": "Encrypted data is not signed"
+   },
+   "encrypt_remove_signer_btn": {
+      "description": "Remove signer button label on encrypt page.",
+      "message": "Remove signature"
+   },
+   "encrypt_signed_as_label": {
+      "description": "Signed as label on encrypt success page.",
+      "message": "เซ็นโดย"
+   },
+   "encrypt_signer_info": {
+      "description": "Signer info text on encrypt page.",
+      "message": "Encrypted data is signed with your key ($1)"
+   },
+   "encrypt_text_encryption_btn": {
+      "description": "Text encryption button label on encrypt page.",
+      "message": "Do you also want to encrypt a text?"
+   },
+   "encrypt_text_error_header": {
+      "description": "Header of text decryption error on decrypt result page.",
+      "message": "Encryption of the text is not possible."
+   },
+   "encrypt_upload_file_warning_too_big": {
+      "description": ".",
+      "message": "หนึ่งในไฟล์มีขนาดใหญ่เกินไป"
+   },
+   "ext_description": {
+      "description": "Description of the extension.",
+      "message": "ขยายผู้ให้บริการอีเมลด้วยการเข้ารหัสตั้งแต่ต้นทางถึงปลายทาง รักษาความปลอดภัยของระบบการสื่อสารของอีเมลบนมาตรฐาน OpenPGP"
+   },
+   "ext_name": {
+      "description": "Name of the extension.",
+      "message": "Mailvelope"
+   },
+   "feature_banner_new_security_background_btn": {
+      "description": "Button text of feature banner for new security background.",
+      "message": "Personalize now"
+   },
+   "feature_banner_new_security_background_text": {
+      "description": "Text of feature banner for new security background.",
+      "message": "Make Mailvelope even more secure by personalizing your security background."
+   },
+   "file_invalid_signed": {
+      "description": "Text of signer field of file element.",
+      "message": "Signature is invalid"
+   },
+   "file_not_signed": {
+      "description": "Text of signer field of file element.",
+      "message": "File not signed"
+   },
+   "file_read_error": {
+      "description": "",
+      "message": "ไม่สามารถถอดรหัสลับของไฟล์ $1"
+   },
+   "file_signed": {
+      "description": "Text of signer field of file element.",
+      "message": "File signed by $1"
+   },
+   "form_back": {
+      "description": "Back form button.",
+      "message": "ย้อนกลับ"
+   },
+   "form_busy": {
+      "description": "Form in busy state.",
+      "message": "กำลังดำเนินการ"
+   },
+   "form_cancel": {
+      "description": "Cancel form button.",
+      "message": "ยกเลิก"
+   },
+   "form_clear": {
+      "description": "Clear form button.",
+      "message": "ล้าง"
+   },
+   "form_close": {
+      "description": "Close form button.",
+      "message": "ปิด"
+   },
+   "form_confirm": {
+      "description": "Confirm form button.",
+      "message": "ยืนยัน"
+   },
+   "form_continue": {
+      "description": "Continue form button.",
+      "message": "ดำเนินการต่อ"
+   },
+   "form_definition_error_no_recipient_key": {
+      "description": "Error message when recipient key is not in keyring",
+      "message": "ไม่พบกุญแจเข้ารหัสลับของผู้รับ"
+   },
+   "form_definition_error_signature_invalid": {
+      "description": "Error message when the form signature is not valid",
+      "message": "รูปแบบลายเซ็นไม่ถูกต้อง"
+   },
+   "form_destination": {
+      "description": "URL the form data will be sent to",
+      "message": "ปลายทาง"
+   },
+   "form_destination_default": {
+      "description": "Behavior when no action is specified in form",
+      "message": "ข้อมูลที่เข้ารหัสแล้วจะกลับไปที่เพจ"
+   },
+   "form_forward": {
+      "description": "Forward form button.",
+      "message": "ส่งต่อ"
+   },
+   "form_import": {
+      "description": "Import form button.",
+      "message": "นำเข้า"
+   },
+   "form_loading": {
+      "description": "Waiting modal when form is loading.",
+      "message": "กำลังโหลดฟอร์ม"
+   },
+   "form_next": {
+      "description": "Next form button.",
+      "message": "ต่อไป"
+   },
+   "form_no": {
+      "description": "No form button.",
+      "message": "ไม่"
+   },
+   "form_ok": {
+      "description": "Ok form button.",
+      "message": "ตกลง"
+   },
+   "form_recipient": {
+      "description": "The email for which the form will be encrypted for",
+      "message": "ผู้รับ"
+   },
+   "form_save": {
+      "description": "Save form button.",
+      "message": "บันทึก"
+   },
+   "form_sign_error_no_default_key": {
+      "description": "Error message when trying to sign and no primary key is found",
+      "message": "ไม่มีกุญแจส่วนตัวในห่วงกุญแจ กรุณานำเข้าหรือสร้างขึ้นใหม่"
+   },
+   "form_submit": {
+      "description": "Submit form button.",
+      "message": "ส่ง"
+   },
+   "form_undo": {
+      "description": "Undo form button.",
+      "message": "เลิกทำ"
+   },
+   "form_yes": {
+      "description": "Yes form button.",
+      "message": "ใช่"
+   },
+   "general_default_key_always": {
+      "description": "Label for default private key option.",
+      "message": "เพิ่มกุญแจค่าเริ่มต้นในรายการของผู้รับเสมอ (สิ่งนี้จะอนุญาติให้คุณถอดรหัสลับในอีเมลที่ถูกส่งแล้ว)"
+   },
+   "general_default_key_auto_sign": {
+      "description": "Label for default private key option.",
+      "message": "Would you like to sign all your emails?"
+   },
+   "general_default_key_auto_sign_link": {
+      "description": "Test for auto sign link.",
+      "message": "Change settings here"
+   },
+   "general_default_key_no_sign_option": {
+      "description": "Label for not sign option in sign key select.",
+      "message": "Not signed"
+   },
+   "general_gnupg_check_availability": {
+      "description": "Button label to check availability of GnuPG",
+      "message": "ตรวจสอบความพร้อมในการใช้งาน"
+   },
+   "general_gnupg_installed_question": {
+      "description": "Status message with available user options",
+      "message": "คุณมี GnuPG ติดตั้งอยู่หรือไม่ ถ้าไม่ \u003C0> ดาวโหลดที่นี่ \u003C/0> ตรวจสอบความพร้อมอีกครั้ง \u003C1> รีสตาท Mailvelope \u003C/1> "
+   },
+   "general_gnupg_not_available": {
+      "description": "Indicator if GnuPG is not available",
+      "message": "GnuPG ไม่พร้อมใช้งาน"
+   },
+   "general_gnupg_prefer": {
+      "description": "Question if user prefers to use GnuPG",
+      "message": "คุณชอบใช้ GnuPG หรือไม่"
+   },
+   "general_openpgp_current": {
+      "description": "Label for current OpenPGP backend. Sentence continues with either 'OpenPGP.js' or 'GnuPG",
+      "message": "คุณกำลังใช้งานอยู่ขณะนี้"
+   },
+   "general_openpgp_prefer": {
+      "description": "Label for OpenPGP backend selection.",
+      "message": "หลังบ้านของการเข้ารหัสลับอันไหนที่คุณต้องการ"
+   },
+   "general_openpgp_preferences": {
+      "description": "Headline for OpenPGP settings.",
+      "message": "การปรับแต่ง OpenPGP"
+   },
+   "general_prefer_gnupg_note": {
+      "description": "Help text for GnuPG as the preferred OpenPGP backend option.",
+      "message": "บันทึก ห่วงกุญแจที่มีอยู่และกุญแจสาธารณะถูกประสานรวมกัน  ทั้งนี้ขึ้นอยู่กับกุญแจส่วนตัวทีมีอยู่ Mailvelope  สามารถถูกเขียนทับได้ในคลังข้อมูลการตั้งค่าการเข้ารหัสลับที่ถูกเลือก   "
+   },
+   "gmail_integration_auth_error_download": {
+      "description": "Error message for components requiring authorization of GMAIL integration",
+      "message": "Mailvelope is not authorized to download attachments."
+   },
+   "gmail_integration_auth_error_send": {
+      "description": "Error message for components requiring authorization of GMAIL integration",
+      "message": "Mailvelope is not authorized to send emails."
+   },
+   "gmail_integration_id_validation_error_gsuite": {
+      "description": "Error message for G Suite users when trying to authorize Gmail integration",
+      "message": "Email addresses assigned to a G Suite account are not supported in the current test phase."
+   },
+   "gmail_integration_quoted_mail_header_forward": {
+      "description": "Header for forwarded mail",
+      "message": "---------- Forwarded message ---------\nFrom: $1\nDate: $2\nSubject: $3\nTo: $4"
+   },
+   "gmail_integration_quoted_mail_header_reply": {
+      "description": "Header for quoted reply mail",
+      "message": "On $1, $2 wrote:"
+   },
+   "gmail_integration_sent_success": {
+      "description": "Email sent success notification",
+      "message": "The email was sent successfully."
+   },
+   "gnupg_connection": {
+      "description": "Header that shows that GnuPG is available on the system.",
+      "message": "การเชื่อมต่อ GnuPG"
+   },
+   "gnupg_error_unusable_pub_key": {
+      "description": "",
+      "message": "กรุณาตรวจสอบถ้ากุญแจสาธารณะเหล่านี้สามารถใช้ได้ในห่วงกญแจ GnuPG ของคุณและมีความเที่ยงตรง $1"
+   },
+   "import_frame_help_text": {
+      "description": "Help text on import frame.",
+      "message": "Click to import key"
+   },
+   "install_landing_page_hint": {
+      "description": "Install landing page getting started hint",
+      "message": "Click here, to open the extension."
+   },
+   "invalid_default_key": {
+      "description": "Tootip for set as default key button",
+      "message": "กุญแจไม่ถูกต้องในการเข้ารหัสลับและเข้าระบบปฏิบัติการเซ็นชื่อ"
+   },
+   "key_default_active_btn_title": {
+      "description": "Title for active default key button",
+      "message": "กุญแจได้ตั้งเป็นกุญแจเริ่มต้น"
+   },
+   "key_default_disabled_btn_title": {
+      "description": "Title for disabled (invalid) default key button",
+      "message": "กุญแจไม่ถูกต้องจึงไม่สามารถตั้งเป็นกุญแจตั้งต้น"
+   },
+   "key_default_inactive_btn_title": {
+      "description": "Title for inactive default key button",
+      "message": "ตั้งค่ากุญแจเป็นค่าเริ่มต้น"
+   },
+   "key_export_btn": {
+      "description": "Export key button label",
+      "message": "ส่งออก"
+   },
+   "key_export_btn_title": {
+      "description": "Title for export key button",
+      "message": "ส่งออกกุญแจ"
+   },
+   "key_export_create_file": {
+      "description": "Download file button.",
+      "message": "บันทึกข้อมูล"
+   },
+   "key_export_dialog_copy_to_clipboard": {
+      "description": "Copy to clipboard button label.",
+      "message": "คัดลอกคลิปบอร์ด"
+   },
+   "key_export_dialog_question": {
+      "description": "Question in export private key dialog.",
+      "message": "กุญแจที่ต้องการส่งออก"
+   },
+   "key_export_dialog_title": {
+      "description": "Title of export key dialog.",
+      "message": "ส่งออกกุญแจ"
+   },
+   "key_export_filename": {
+      "description": "Label of filename input.",
+      "message": "ชื่อไฟล์"
+   },
+   "key_export_header": {
+      "description": "Export key dialog header.",
+      "message": "ส่งออกกุญแจ"
+   },
+   "key_export_warning_private": {
+      "description": "Key export warning.",
+      "message": "กุญแจส่วนตัวอยู่ในไฟล์นี้ กรุณาเก็บไฟล์ไว้ในที่ปลอดภัยและไม่แชร์กับผู้อื่น"
+   },
+   "key_gen_advanced_btn": {
+      "description": "Advanced key generation settings.",
+      "message": "ขั้นสูง"
+   },
+   "key_gen_another": {
+      "description": "Key import button",
+      "message": "สร้างอีกครั้ง"
+   },
+   "key_gen_demail": {
+      "description": "De-Mail address name.",
+      "message": "ที่อยู่ De-mail"
+   },
+   "key_gen_error": {
+      "description": "Key generation error message",
+      "message": "เกิดข้อผิดพลาดขณะสร้างกุญแจ"
+   },
+   "key_gen_experimental": {
+      "description": "A key algorithm is flagged as experimental",
+      "message": "ทดลอง"
+   },
+   "key_gen_expiration": {
+      "description": "Key expiration date",
+      "message": "วันหมดอายุของกุญแจ"
+   },
+   "key_gen_future_default": {
+      "description": "Key generation algorithm, the future supported standard.",
+      "message": "ค่าเริ่มต้นในอนาคต"
+   },
+   "key_gen_generate": {
+      "description": "Key generate button label",
+      "message": "สร้าง"
+   },
+   "key_gen_invalid_email": {
+      "description": "Error message.",
+      "message": "ที่อยู่อีเมลไม่ถูกต้อง"
+   },
+   "key_gen_key_size": {
+      "description": "Advanced key generation settings: Key size",
+      "message": "ขนาดกุญแจ"
+   },
+   "key_gen_name_help": {
+      "description": "Help text for name field.",
+      "message": "ชื่อและนามสกุลของเจ้าของกุญแจ"
+   },
+   "key_gen_pwd": {
+      "description": "Label for passphrase input field",
+      "message": "ใส่รหัสผ่าน"
+   },
+   "key_gen_pwd_empty": {
+      "description": "Passphrase input field status",
+      "message": "ช่องรหัสผ่านว่างเปล่า"
+   },
+   "key_gen_pwd_match": {
+      "description": "Passphrase input field status",
+      "message": "รหัสผ่านตรงกัน"
+   },
+   "key_gen_pwd_reenter": {
+      "description": "Label for passphrase input field",
+      "message": "ใส่รหัสผ่านอีกครั้ง"
+   },
+   "key_gen_pwd_unequal": {
+      "description": "Passphrase input field status",
+      "message": "รหัสผ่านไม่ตรงกัน"
+   },
+   "key_gen_success": {
+      "description": "Key generation success message",
+      "message": "กุญแจใหม่ที่ถูกสร้างและถูกนำเข้าไปในห่วงกุญแจ"
+   },
+   "key_gen_upload": {
+      "description": "Upload key to Mailvelope key server checkbox",
+      "message": "อัปโหลดกุญแจสาธารณะไปสู่กุญแจเซิร์ฟเวอร์ Mailvelope ( สามารถลบได้ตลอดเวลา)"
+   },
+   "key_gen_wait_header": {
+      "description": "Wait dialog header",
+      "message": "กุญแจอยู่ในระหว่างการถูกสร้าง"
+   },
+   "key_gen_wait_info": {
+      "description": "Wait dialog info message",
+      "message": "โปรดรอสักครู การสร้างกุญแจอาจใช้เวลาหลายนาทีขึ้นอยู่กับปัจจัยที่หลากหลายเช่น ขนาดของกุญแจ"
+   },
+   "key_import_bulk_success": {
+      "description": "Import success message for more than 5 keys",
+      "message": "Keys successfully imported/updated."
+   },
+   "key_import_contacts_import_btn": {
+      "description": "Contact import button label on key import page.",
+      "message": "Import contacts"
+   },
+   "key_import_default_description": {
+      "description": "Key import dialog description.",
+      "message": "ยืนยันการเปิดใช้การเข้ารหัสลับกับผู้รับ"
+   },
+   "key_import_default_headline": {
+      "description": "Key import dialog header.",
+      "message": "ยืนยันกุญแจ"
+   },
+   "key_import_dialog_header": {
+      "description": "Key import dialog header.",
+      "message": "เพิ่มกุญแจไปยังห่วงกุญแจ"
+   },
+   "key_import_error": {
+      "description": "Import error alert.",
+      "message": "การนำเข้าผิดพลาด"
+   },
+   "key_import_error_no_uid": {
+      "description": "Import error no user id found.",
+      "message": "No valid user ID found in key $1"
+   },
+   "key_import_error_parse": {
+      "description": "Import parse error.",
+      "message": "Error reading armored PGP key: $1"
+   },
+   "key_import_exception": {
+      "description": "Import error alert.",
+      "message": "เกิดข้อผิดพลาดขณะประมวลผลกุญแจ"
+   },
+   "key_import_file_label": {
+      "description": "File selection label.",
+      "message": "Select files"
+   },
+   "key_import_from_text_btn": {
+      "description": "Import keys from clipboard button label on key import page.",
+      "message": "Import key from clipboard"
+   },
+   "key_import_from_text_label": {
+      "description": "Import keys from clipboard textarea label on key import page.",
+      "message": "Text from clipboard"
+   },
+   "key_import_hkp_search_btn": {
+      "description": "",
+      "message": "ค้นหา"
+   },
+   "key_import_hkp_search_ph": {
+      "description": "",
+      "message": "โดยชื่อ ที่อยู่อีเมล หรือ เลขประจำตัวกุญแจ"
+   },
+   "key_import_hkp_search_public": {
+      "description": "",
+      "message": "ค้นหากุญแจสาธารณะบนกุญแจเซิฟร์เวอร์ "
+   },
+   "key_import_hkp_server": {
+      "description": "",
+      "message": "กุญแจเซิร์ฟเวอร์"
+   },
+   "key_import_invalid_text": {
+      "description": "Import error alert.",
+      "message": "ไม่พบข้อความกุญแจที่ถูกต้อง"
+   },
+   "key_import_invalidated_description": {
+      "description": "",
+      "message": "คำเตือน ข้อมูลที่จำเป็นสำหรับการสื่อสารที่เข้ารหัสลับซึ่งหมดอายุแล้ว การสื่อสารที่เข้ารหัสลับซึ่งประกอบด้วย $1 ไม่สามารถทำได้อีกต่อไป ผู้ติดต่อต้องเชิญคุณอีกครั้ง"
+   },
+   "key_import_number_of_failed": {
+      "description": "Error message with number of failed imports.",
+      "message": "A key could not be imported due to errors."
+   },
+   "key_import_number_of_failed_plural": {
+      "description": "Error message with number of failed imports.",
+      "message": "$1 ไม่สามารถนำเข้ากุญแจได้เนื่องจากเกิดข้อผิดพลาดต่าง ๆ"
+   },
+   "key_import_private_exists": {
+      "description": "Import success message: $1: keyid, $2: userid.",
+      "message": "กุญแจส่วนตัวที่ตรงกับกุญแจสาธาณะ$1 ของผู้ใช้ $2 ถูกนำเข้าสู่ห่วงกุญแจแล้ว"
+   },
+   "key_import_private_read": {
+      "description": "Import error message. $1: error message",
+      "message": "ไม่สามารถอ่านกุญแจส่วนตัว $1"
+   },
+   "key_import_private_success": {
+      "description": "Import success message: $1: keyid, $2: userid.",
+      "message": "กุญแจส่วนตัว $1 ของผู้ใช้ $2 นำเข้าไปยังห่วงกุญแจ"
+   },
+   "key_import_private_update": {
+      "description": "Import success message: $1: keyid, $2: userid.",
+      "message": "กุญแจส่วนตัวที่อัปเดตแล้ว $1ของผู้ใช้ $2"
+   },
+   "key_import_public_read": {
+      "description": "Import error message. $1: error message",
+      "message": "ไม่สามารถอ่านกุญแจสาาธารณะ $1"
+   },
+   "key_import_public_success": {
+      "description": "Import success message: $1: keyid, $2: userid.",
+      "message": "กุญแจสาธารณะ $1 ของผู้ใช้ $2 ถูกนำเข้าไปยังห่วงกุญแจ"
+   },
+   "key_import_public_update": {
+      "description": "Import success message: $1: keyid, $2: userid.",
+      "message": "อัปเดตกุญแจสาธารณะ $1 ของผู้ใช้ $2"
+   },
+   "key_import_textarea": {
+      "description": "Key import box.",
+      "message": "นำเข้ากุญแจเป็นแบบอักษร"
+   },
+   "key_import_too_big": {
+      "description": "Import error alert.",
+      "message": "กุญแจตัวอักษรที่คุณพยายามจะนำเข้ายาวเกินไป ลองทำมันให้สั้นลง"
+   },
+   "key_import_unable": {
+      "description": "Import error message: $1: error message.",
+      "message": "ไม่สามารถนำเข้ากุญแจเนื่องจากเกิดข้อผิดพลาด:$1"
+   },
+   "key_keyserver_mod": {
+      "description": "Local key data differs from Mailvelope key server",
+      "message": "ข้อมูลกุญแจบนเซิร์ฟเวอร์กุญแจ Mailvelope ไม่ได้เป็นข้อมูลล่าสุด"
+   },
+   "key_keyserver_not": {
+      "description": "Key is not on the the Mailvelope server",
+      "message": "กุญแจไม่ได้ถูกเชื่อมต่อกับเซิร์ฟเวอร์กุญแจของ Mailvelope"
+   },
+   "key_keyserver_remove": {
+      "description": "A deletion request has been sent to the Mailvelope key server",
+      "message": "การยืนยันอีเมลถูกส่งไปยังบัญชีผู้ใช้สำหรับลบจากเซิร์ฟเวอร์กุญแจ Mailvelope"
+   },
+   "key_keyserver_remove_btn": {
+      "description": "Key server remove existing key button label",
+      "message": "ลบบัญชีผู้ใช้ทั้งหมด"
+   },
+   "key_keyserver_resend_btn": {
+      "description": "Key server send again button label",
+      "message": "ส่งอีกครั้ง"
+   },
+   "key_keyserver_sync": {
+      "description": "Key data is synchronized with the Mailvelope key server",
+      "message": "ข้อมูลกุญแจบนเซิร์ฟเวอร์กุญแจ Mailvelope เป็นข้อมูลล่าสุด"
+   },
+   "key_keyserver_update": {
+      "description": "An update request has been sent to the Mailvelope key server",
+      "message": "ข้อมูลกุญแจได้ถูกอัปเดตบนเซิร์ฟเวอร์กุญแจของ Mailvelope\n "
+   },
+   "key_keyserver_update_btn": {
+      "description": "Key server update button label",
+      "message": "อัปเดท\n"
+   },
+   "key_keyserver_upload": {
+      "description": "An upload request has been sent to the Mailvelope key server",
+      "message": "เพื่อเชื่อมต่อเซิร์ฟเวอร์ของ Mailvelope เข้ากับอีเมลยืนยันได้ถูกส่งไปที่บัญชีผู้ใช้ท้ังหมด"
+   },
+   "key_keyserver_upload_btn": {
+      "description": "Key server upload button label",
+      "message": "เชื่อมข้อมูล\n"
+   },
+   "key_recovery_failed": {
+      "description": "",
+      "message": "ไม่สามารถกู้คืนกุญแจจากข้อมูลสำรองได้"
+   },
+   "key_remove_btn": {
+      "description": "Remove key button label",
+      "message": "ลบออก"
+   },
+   "key_remove_btn_title": {
+      "description": "Title for remove key button",
+      "message": "ลบกญแจออกกจากห่วงกุญแจ"
+   },
+   "key_remove_dialog_title": {
+      "description": "Title of delete key dialog.",
+      "message": "ลบกุญแจ\n"
+   },
+   "key_revoke_btn": {
+      "description": "Revoke key button label",
+      "message": "ยกเลิก"
+   },
+   "key_revoke_btn_title": {
+      "description": "Title for revoke key button",
+      "message": "ยกเลิกกุญแจ"
+   },
+   "key_revoke_dialog_confirm": {
+      "description": "Confirmation question of revoke key dialog.",
+      "message": "คุณยังต้องการยกเลิกกุญแจหรือไม่"
+   },
+   "key_revoke_dialog_description": {
+      "description": "Text of revoke key dialog.",
+      "message": "การยกเลิกจะทำให้กุญแจไม่สามารถใช้ได้อีกต่อไป"
+   },
+   "key_revoke_dialog_title": {
+      "description": "Title of revoke key dialog.",
+      "message": "ยกเลิกกุญแจ"
+   },
+   "key_set_as_default": {
+      "description": "Set as default key for the keyring button",
+      "message": "กลับสู่ค่าเริ่มต้น"
+   },
+   "keybackup_failed": {
+      "description": "",
+      "message": "การสร้างข้อมูลสำรองล้มเหลว"
+   },
+   "keybackup_restore_dialog_button": {
+      "description": "",
+      "message": "กู้คืนข้อมูลสำรอง"
+   },
+   "keybackup_restore_dialog_description": {
+      "description": "",
+      "message": "สร้างเอกสารกู้คืนข้อมูลที่นี่ หาก"
+   },
+   "keybackup_restore_dialog_headline": {
+      "description": "",
+      "message": "คำแนะนำ สร้างข้อมูลสำรอง"
+   },
+   "keybackup_restore_dialog_list_1": {
+      "description": "",
+      "message": "เอกสารกู้คืนข้อมูลของคุณสูญหาย"
+   },
+   "keybackup_restore_dialog_list_2": {
+      "description": "",
+      "message": "จำเป็นต้องสร้างเอกสารกู้คืนข้อมูลเพื่อเหตุผลด้านความปลอดภัย"
+   },
+   "keybackup_setup_dialog_button": {
+      "description": "",
+      "message": "สร้างข้อมูลสำรอง"
+   },
+   "keybackup_setup_dialog_description": {
+      "description": "",
+      "message": "จำเป็นต้องมีการสำรองข้อมูล เพื่อให้แน่ใจว่าการสื่อสารแบบเข้ารหัสเป็น"
+   },
+   "keybackup_setup_dialog_headline": {
+      "description": "",
+      "message": "คำแนะนำ ตั้งค่าข้อมูลสำรอง"
+   },
+   "keybackup_setup_dialog_list_1": {
+      "description": "In order to restore your encrypted communication in case of data loss.",
+      "message": "In order to restore it in case of data loss"
+   },
+   "keybackup_setup_dialog_list_2": {
+      "description": "In order to transfer your encrypted communication to other devices.",
+      "message": "In order to transfer it to other devices"
+   },
+   "keybackup_waiting_description": {
+      "description": "",
+      "message": "เอกสารที่มีรหัสกู้คืนข้อมูลถูกเตรียมพร้อมแล้ว"
+   },
+   "keybackup_waiting_headline": {
+      "description": "",
+      "message": "สร้างข้อมูลสำรอง"
+   },
+   "keydetails_change_exp_date_dialog_note": {
+      "description": "Important note in change expiration date dialog.",
+      "message": "วันหมดอายุของกุญแจย่อยทั้งหมดถูกเปลี่ยนแปลงแล้ว ส่วนกุญแจที่ไม่ถูกใช้งานหรือกุญแจย่อยที่หมดอายุแล้วไม่ถูกเปลี่ยนแปลง"
+   },
+   "keydetails_change_exp_date_dialog_title": {
+      "description": "Title of change expiration date dialog.",
+      "message": "เปลี่ยนแปลงวันหมดอายุ"
+   },
+   "keydetails_change_pwd_dialog_old": {
+      "description": "Old password input label",
+      "message": "รหัสผ่านเดิม"
+   },
+   "keydetails_change_pwd_dialog_title": {
+      "description": "Title of change password dialog.",
+      "message": "เปลี่ยนรหัสผ่าน"
+   },
+   "keydetails_creation_date": {
+      "description": "Creation date of a PGP key.",
+      "message": "สร้างแล้ว"
+   },
+   "keydetails_expiration_date": {
+      "description": "Expiration date of a PGP key.",
+      "message": "หมดอายุ"
+   },
+   "keydetails_key_not_expire": {
+      "description": "Expiration date of a PGP key not set.",
+      "message": "ไม่เคย"
+   },
+   "keydetails_password": {
+      "description": "Password of a PGP key.",
+      "message": "รหัสผ่าน"
+   },
+   "keydetails_title": {
+      "description": "Title of the key details panel",
+      "message": "รายละเอียดของกุญแจ"
+   },
+   "keygen_dialog_password_error_length": {
+      "description": "",
+      "message": "Password requires at least $1 characters"
+   },
+   "keygen_dialog_password_placeholder": {
+      "description": "",
+      "message": "อย่างน้อย 4 ตัวอักษร"
+   },
+   "keygen_dialog_prolog": {
+      "description": "",
+      "message": "Please assign a password for your key to protect your encrypted communication:"
+   },
+   "keygen_waiting_description": {
+      "description": "",
+      "message": "This process can take several minutes. Your browser may become unresponsive. Please be patient."
+   },
+   "keygen_waiting_headline": {
+      "description": "",
+      "message": "สร้างการสื่อสารเมื่อเข้ารหัสลับแล้ว"
+   },
+   "keygrid_algorithm": {
+      "description": "Public-key algorithm of a PGP key.",
+      "message": "อัลกอริทึม"
+   },
+   "keygrid_all_keys": {
+      "description": "Selection of key type.",
+      "message": "ทั้งหมด"
+   },
+   "keygrid_creation_date": {
+      "description": "Creation date of a PGP key.",
+      "message": "วันที่สร้าง"
+   },
+   "keygrid_creation_date_short": {
+      "description": "Short creation date of a PGP key. Max. width: 90px",
+      "message": "ถูกสร้างแล้ว"
+   },
+   "keygrid_default_key": {
+      "description": "Default key in the keyring.",
+      "message": "กุญแจตั้งค่าเริ่มต้น"
+   },
+   "keygrid_default_label": {
+      "description": "Label for the default key",
+      "message": "ค่าเริ่มต้น"
+   },
+   "keygrid_delete": {
+      "description": "Max. 6 characters.",
+      "message": "ลบ"
+   },
+   "keygrid_delete_confirmation": {
+      "description": "Delete confirmation dialog.",
+      "message": "คุณแน่ใจที่จะย้ายกุญแจนี้หรือไม่"
+   },
+   "keygrid_display_all_keys": {
+      "description": "Export key menu.",
+      "message": "แสดงกุญแจทั้งหมด"
+   },
+   "keygrid_display_priv_key": {
+      "description": "Export key menu.",
+      "message": "แสดงกุญแจส่วนตัว"
+   },
+   "keygrid_display_pub_key": {
+      "description": "Export key menu.",
+      "message": "แสดงกุญแจสาธารณะ"
+   },
+   "keygrid_expiration_date": {
+      "description": "Expiration date of a PGP key.",
+      "message": "วันหมดอายุ"
+   },
+   "keygrid_export": {
+      "description": "Export key.",
+      "message": "ส่งออก"
+   },
+   "keygrid_export_title": {
+      "description": "Title for Export key button.",
+      "message": "ส่งออกกุญแจทั้งหมดในรายการนี้ไปที่ไฟล์"
+   },
+   "keygrid_generate_title": {
+      "description": "Title for generate key button",
+      "message": "สร้างกุญแจ"
+   },
+   "keygrid_import_title": {
+      "description": "Title for Import key button.",
+      "message": "นำเข้ากุญแจ"
+   },
+   "keygrid_invalid_userid": {
+      "description": "User ID invalid.",
+      "message": "เลขประจำตัวผู้ใช้ที่ไม่ได้ใช้งานแล้ว"
+   },
+   "keygrid_key_fingerprint": {
+      "description": "Unique string identifier for a PGP key.",
+      "message": "ลายนิ้วมือ PGP"
+   },
+   "keygrid_key_length": {
+      "description": "Key length of a PGP key.",
+      "message": "ความยาว"
+   },
+   "keygrid_key_not_expire": {
+      "description": "Expiration date of a PGP key not set.",
+      "message": "กุญแจที่ยังไม่หมดอายุ"
+   },
+   "keygrid_keyid": {
+      "description": "Key ID of a PGP key.",
+      "message": "เลขประจำตัวกุญแจ"
+   },
+   "keygrid_primary_key": {
+      "description": "Main key in the PGP key.",
+      "message": "กุญแจหลัก"
+   },
+   "keygrid_private_keys": {
+      "description": "Selection of key type.",
+      "message": "กุญแจส่วนตัว"
+   },
+   "keygrid_public_keys": {
+      "description": "Selection of key type.",
+      "message": "กุญแจสาธารณะ"
+   },
+   "keygrid_refresh": {
+      "description": "Refresh keygrid component.",
+      "message": "รีเฟรช"
+   },
+   "keygrid_refresh_title": {
+      "description": "Title for button to refresh keygrid component.",
+      "message": "โหลดห่วงกุญแจใหม่"
+   },
+   "keygrid_send_pub_key": {
+      "description": "Export key menu.",
+      "message": "ส่งกุญแจสาธารณะทางอีเมล"
+   },
+   "keygrid_signer_name": {
+      "description": "User ID of signer.",
+      "message": "ผู้เซ็น"
+   },
+   "keygrid_signer_unknown": {
+      "description": "Key of signer not available.",
+      "message": "ผู้เซ็นที่ไม่ทราบตัวตน"
+   },
+   "keygrid_sort_type": {
+      "description": "Key grid sort selector.",
+      "message": "ตัวกรอง"
+   },
+   "keygrid_status_expired": {
+      "description": "Validity status of a PGP key.",
+      "message": "ที่หมดอายุแล้ว"
+   },
+   "keygrid_status_invalid": {
+      "description": "Validity status of a PGP key.",
+      "message": "ไม่ถูกต้อง"
+   },
+   "keygrid_status_revoked": {
+      "description": "Validity status of a PGP key.",
+      "message": "ที่ถูกยกเลิก"
+   },
+   "keygrid_status_valid": {
+      "description": "Validity status of a PGP key.",
+      "message": "ถูกต้อง"
+   },
+   "keygrid_subkey": {
+      "description": "Subkey of a PGP key.",
+      "message": "กุญแจย่อย"
+   },
+   "keygrid_subkeys": {
+      "description": "Subkeys of a PGP key.",
+      "message": "กุญแจย่อย"
+   },
+   "keygrid_user_email": {
+      "description": "Email address in User ID of a PGP key.",
+      "message": "อีเมล"
+   },
+   "keygrid_user_ids": {
+      "description": "User IDs of a PGP key.",
+      "message": "เลขประจำตัวผู้ใช้"
+   },
+   "keygrid_user_name": {
+      "description": "Name in User ID of a PGP key.",
+      "message": "ชื่อ"
+   },
+   "keygrid_user_primary": {
+      "description": "Primary status of User ID of a PGP key",
+      "message": "หลัก"
+   },
+   "keygrid_userid_signatures": {
+      "description": "Signatures on User ID of a PGP key.",
+      "message": "ลายเซ็น"
+   },
+   "keygrid_validity_status": {
+      "description": "Validity status of a PGP key.",
+      "message": "สถานะ"
+   },
+   "keyring_available_settings": {
+      "description": "Text introducing the availability of further settings.",
+      "message": "ดูการตั้งค่าได้ที่"
+   },
+   "keyring_backup": {
+      "description": "Title of keyring backup view",
+      "message": "ข้อมูลสำรองห่วงกุญแจ"
+   },
+   "keyring_confirm_deletion": {
+      "description": "Confirmation message prompted when a keyring is deleted",
+      "message": "Do you want to delete the keyring with ID: $1?"
+   },
+   "keyring_confirm_keys": {
+      "description": "Tab of keyring to import keys.",
+      "message": "ยืนยันกุญแจ"
+   },
+   "keyring_confirm_keys_plural": {
+      "description": "Tab of keyring to import keys.",
+      "message": "ยืนยันกุญแจ $1"
+   },
+   "keyring_display_keys": {
+      "description": "Tab of keyring to display keys.",
+      "message": "แสดงกุญแจ"
+   },
+   "keyring_export_keys": {
+      "description": "Tab of keyring to export keys.",
+      "message": "นำห่วงกุญแจออก"
+   },
+   "keyring_generate_key": {
+      "description": "Tab of keyring to generate key.",
+      "message": "สร้างกุญแจ"
+   },
+   "keyring_header": {
+      "description": "Header of the key ring.",
+      "message": "การจัดการกุญแจ"
+   },
+   "keyring_import_description": {
+      "description": "Description of key import for import tab of keyring import.",
+      "message": "คุณสามารถเพิ่มผู้ติดต่อของคุณโดยใช้ไฟล์หรือข้อความจากคลิปบอร์ด"
+   },
+   "keyring_import_keys": {
+      "description": "Tab of keyring to import keys.",
+      "message": "เพิ่มกุญแจ"
+   },
+   "keyring_import_search_description": {
+      "description": "Description of key search for search tab of keyring import.",
+      "message": "ค้นหาผู้ติดต่อที่มีในเซิร์ฟเวอร์กุญแจ"
+   },
+   "keyring_main": {
+      "description": "Label for the main keyring",
+      "message": "ห่วงกุญแจหลัก"
+   },
+   "keyring_private": {
+      "description": "private key type",
+      "message": "ส่วนตัว"
+   },
+   "keyring_public": {
+      "description": "public key type",
+      "message": "สาธารณะ"
+   },
+   "keyring_public_private": {
+      "description": "public and private key types",
+      "message": "คู่กุญแจ"
+   },
+   "keyring_remove_dialog_title": {
+      "description": "Title of delete keyring dialog.",
+      "message": "Delete keyring"
+   },
+   "keyring_setup": {
+      "description": "Setup keyring for mail provider.",
+      "message": "ติดตั้ง"
+   },
+   "keyring_setup_generate_key": {
+      "description": "Generate key",
+      "message": "สร้างกุญแจ"
+   },
+   "keyring_setup_generate_key_explanation": {
+      "description": "Generate key",
+      "message": "ถ้าคุณใช้โปรแกรมเสริมเป็นครั้งแรกและยังไม่มีคู่กุญแจ กรุณาสร้างกุญแจตอนนี้"
+   },
+   "keyring_setup_import_key": {
+      "description": "Import key",
+      "message": "นำเข้ากุญแจ"
+   },
+   "keyring_setup_import_key_explanation": {
+      "description": "Import key",
+      "message": "คุณมีคู่กุญแจบนอุปกรณ์อื่นแล้วหรือไม่ คุณสามารถนำเข้ากุญแจที่มีอยู่แล้วได้ เพียงแค่นำออกคู่กุญแจจากอุปกรณ์อื่น แล้วนำเข้ากุญแจนั้นๆ บนอุปกรณ์นี้"
+   },
+   "keyring_setup_no_keypair": {
+      "description": "Setup text if no keypair available",
+      "message": "คู่กุญแจเป็นสิ่งจำเป็นในการเข้ารหัสลับและถอดรหัสลับของข้อความ ไปจนถึงการเชิญผู้ติดต่อของคุณให้ใช้การเข้ารหัสตั้งแต่ต้นทางถึงปลายทาง"
+   },
+   "keyring_setup_no_keypair_heading": {
+      "description": "Setup heading if no keypair available",
+      "message": "ห่วงกุญแจยังไม่มีคู่กุญแจ"
+   },
+   "keyserver_additionals_label": {
+      "description": "Label for configuration of additional key sources",
+      "message": "แหล่งข้อมูลกุญแจเพิ่มเติม"
+   },
+   "keyserver_autocrypt_lookup": {
+      "description": "Enable Looking Up Keys Via Autocrypt",
+      "message": "ใช้กุญแจจากส่วนหัวของ AutoCrypt สำหรับอีเมลที่เข้ามา"
+   },
+   "keyserver_hkp_url": {
+      "description": "HKP key server option: url.",
+      "message": "เซิร์ฟเวอร์กุญแจ HKP"
+   },
+   "keyserver_tofu_lookup": {
+      "description": "Enable Mailvelope Key Server Auto Lookup",
+      "message": "ใช้เซิร์ฟเวอร์กุญแจของ Mailvelope"
+   },
+   "keyserver_url_error": {
+      "description": "HKP key server URL error.",
+      "message": "ไม่สามารถเข้าถึงกุญแจเซิฟเวอร์ได้"
+   },
+   "keyserver_url_warning": {
+      "description": "HKP key server url warning.",
+      "message": "URL ของกุญแจเซิฟเวอร์ต้องมีรูปแบบดังต่อไปนี้ http(s)://keys.example.com"
+   },
+   "keyserver_wkd_lookup": {
+      "description": "Enable Web Key Directory Auto Lookup",
+      "message": "กุญแจ Query จากผู้ให้บริการอีเมลของผู้รับ (ไดเรกทอรีกุญแจเว็บ)"
+   },
+   "keyusers_add_btn": {
+      "description": "Add user button label",
+      "message": "เพิ่มใหม่"
+   },
+   "keyusers_add_btn_title": {
+      "description": "Add user button title",
+      "message": "เพิ่มเลขประจำตัวผู้ใช้ใหม่"
+   },
+   "keyusers_keyserver": {
+      "description": "Label of key server column key users table",
+      "message": "กุญแจเซิร์ฟเวอร์"
+   },
+   "keyusers_keyserver_not": {
+      "description": "User ID not synchronized with key server label text",
+      "message": "ยังไม่ประสานรวม"
+   },
+   "keyusers_keyserver_sync": {
+      "description": "User ID synchronized with key server label text",
+      "message": "ประสานรวมแล้ว"
+   },
+   "keyusers_keyserver_unverified": {
+      "description": "User ID key server not verified label text",
+      "message": "ยังไม่ได้ตรวจยืนยัน"
+   },
+   "keyusers_title": {
+      "description": "Title of the key users panel",
+      "message": "กำหนดเลขประจำตัวผู้ใช้"
+   },
+   "learn_more_link": {
+      "description": "Text of a link to a learn-more resource",
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "message_no_keys": {
+      "description": "Decrypt error message.",
+      "message": "ไม่พบกุญแจส่วนตัวสำหรับข้อความนี้ เลขประจำตัวของกุญแจส่วนตัวที่ต้องการคือ $1"
+   },
+   "message_read_error": {
+      "description": "Message read error message: $1: error message.",
+      "message": "ข้อความที่ไม่สามารถถอดรหัสลับได้คือ $1"
+   },
+   "nameaddrinput_error_email_exists": {
+      "description": "Error message for email input field.",
+      "message": "ที่อยู่อีเมลนี้ถูกใช้แล้ว"
+   },
+   "nameaddrinput_error_name_empty": {
+      "description": "Error message for name input field.",
+      "message": "กรุณาใส่ชื่อ"
+   },
+   "notification_text_copy_to_clipboard": {
+      "description": "Copy to clipboard toast message.",
+      "message": "Text has been copied to clipboard."
+   },
+   "options_about": {
+      "description": "Options navigation: About.",
+      "message": "เกี่ยวกับ"
+   },
+   "options_docu": {
+      "description": "Options navigation: Documentation.",
+      "message": "คู่มือการใช้"
+   },
+   "options_home": {
+      "description": "Options navigation: Home.",
+      "message": "ตัวเลือก"
+   },
+   "options_settings": {
+      "description": "Options header: Settings.",
+      "message": "การตั้งค่า"
+   },
+   "options_title": {
+      "description": "Title of options page.",
+      "message": "ตัวเลือกของ Mailvelope"
+   },
+   "preferred": {
+      "description": "Indicates if a keyring is preferred",
+      "message": "ที่ต้องการ"
+   },
+   "provider_gmail_auth": {
+      "description": "Authorizations",
+      "message": "Authorizations"
+   },
+   "provider_gmail_auth_cancel_btn": {
+      "description": "Cancel authorization button",
+      "message": "Cancel authorization"
+   },
+   "provider_gmail_auth_readonly": {
+      "description": "Readonly authorization",
+      "message": "read email"
+   },
+   "provider_gmail_auth_send": {
+      "description": "Send authorization",
+      "message": "send email"
+   },
+   "provider_gmail_auth_table_title": {
+      "description": "Title for authorization table.",
+      "message": "Google API Authorizations"
+   },
+   "provider_gmail_dialog_auth_google_signin": {
+      "description": "Text Google sign in button",
+      "message": "Sign in with Google"
+   },
+   "provider_gmail_dialog_auth_intro": {
+      "description": "Intro text for GMAIL OAuth dialog.",
+      "message": "In order to use the Gmail integration for \u003C0>\u003C/0>, the following permissions must be granted to Mailvelope:"
+   },
+   "provider_gmail_dialog_auth_outro": {
+      "description": "Outro text for GMAIL OAuth dialog.",
+      "message": "If you click on the sign in button, a Google authorization window opens. Select your Gmail account for the email address \u003C0>\u003C/0> and follow the instructions."
+   },
+   "provider_gmail_dialog_description": {
+      "description": "Leading text for GMAIL API dialog.",
+      "message": "Using the Gmail API extends the functionality of Mailvelope with Gmail and simplifies sending and reading encrypted emails and attachments."
+   },
+   "provider_gmail_dialog_privacy_policy": {
+      "description": "Privacy policy link.",
+      "message": "Please read our \u003C0>Privacy Policy\u003C/0>"
+   },
+   "provider_gmail_dialog_title": {
+      "description": "Title of GMAIL OAuth dialog.",
+      "message": "Using the Gmail API"
+   },
+   "provider_gmail_integration": {
+      "description": "Label for Gmail integration option.",
+      "message": "Gmail API Integration (experimental)"
+   },
+   "provider_gmail_integration_info": {
+      "description": "Info message for Gmail integration option",
+      "message": "Mailvelope requires additional permissions to access the Gmail API. As soon as you use the encryption functions of Mailvelope in Gmail, you are guided through an authorization process. This requires you to sign in to your Google account."
+   },
+   "provider_gmail_integration_warning": {
+      "description": "Warning message, when Gmail is not authorized",
+      "message": "Gmail is not authorized with the search pattern \u003C0>\u003C/0>. Please check the settings in \u003C1>\u003C/1>."
+   },
+   "provider_gmail_secure_forward_btn": {
+      "description": "Secure forward button title/tooltip",
+      "message": "Secure forward"
+   },
+   "provider_gmail_secure_replyAll_btn": {
+      "description": "Secure reply all button title/tooltip",
+      "message": "Secure reply all"
+   },
+   "provider_gmail_secure_reply_btn": {
+      "description": "Secure reply button title/tooltip",
+      "message": "Secure reply"
+   },
+   "pwd_dialog_cache_pwd": {
+      "description": "Checkbox label for remembering of the password.",
+      "message": "จดจำรหัสผ่านชั่วคราว"
+   },
+   "pwd_dialog_cancel": {
+      "description": "User canceled key unlock dialog.",
+      "message": "การปลดล็อคกุญแจถูกยกเลิก"
+   },
+   "pwd_dialog_header": {
+      "description": "Header of the password dialog.",
+      "message": "กรอกรหัสผ่านกุญแจ"
+   },
+   "pwd_dialog_pwd_please": {
+      "description": "Placeholder for password.",
+      "message": "กรุณากรอกรหัสผ่านของคุณ"
+   },
+   "pwd_dialog_reason_add_user": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจเพื่อสร้างเลขประจำตัวผู้ใช้"
+   },
+   "pwd_dialog_reason_create_backup": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจของคุณเพื่อสร้างเอกสารการกู้คืนข้อมูล"
+   },
+   "pwd_dialog_reason_create_draft": {
+      "description": "",
+      "message": "กรอกรหัสผ่านกุญแจเพื่อบันทึกร่างข้อความ"
+   },
+   "pwd_dialog_reason_decrypt": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจของคุณเพื่อถอดรหัสลับข้อความนี้"
+   },
+   "pwd_dialog_reason_editor": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจของคุณเพื่ออัปเดตการตั้งค่าสำหรับการสื่อสารที่เข้ารหัสลับแล้ว"
+   },
+   "pwd_dialog_reason_revoke": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจของคุณเพื่อยกเลิกกุญแจอันนี้"
+   },
+   "pwd_dialog_reason_revoke_user": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจของคุณเพื่อยกเลิกเลขประจำตัวผู้ใช้"
+   },
+   "pwd_dialog_reason_set_exdate": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจของคุณเพื่อตั้งวันหมดอายุของกุญแจ"
+   },
+   "pwd_dialog_reason_sign": {
+      "description": "",
+      "message": "กรุณากรอกรหัสผ่านกุญแจของคุณเพื่อเซ็นข้อความนี้"
+   },
+   "pwd_dialog_title": {
+      "description": "Title of the password dialog.",
+      "message": "กรุณากรอกรหัสผ่าน | Mailvelope"
+   },
+   "pwd_dialog_userid": {
+      "description": "Label for user ID.",
+      "message": "เลขประจำตัวผู้ใช้ คือ"
+   },
+   "pwd_dialog_wrong_pwd": {
+      "description": "Password error message.",
+      "message": "รหัสผ่านผิด"
+   },
+   "recovery_sheet_backup_data": {
+      "description": "",
+      "message": "สำรองข้อมูลของคุณ"
+   },
+   "recovery_sheet_backup_local": {
+      "description": "",
+      "message": "If you would like to exclusively save your data locally on your computer, you will find this option in the encrypted communication settings of your $1 account. "
+   },
+   "recovery_sheet_backup_server": {
+      "description": "",
+      "message": "To back up the data that is important for encrypted communication (e.g. key password), the data will be saved encrypted on our $1 servers by our security partner Mailvelope."
+   },
+   "recovery_sheet_be_aware": {
+      "description": "Label",
+      "message": "กรุณาระมัดระวัง"
+   },
+   "recovery_sheet_check_settings": {
+      "description": "",
+      "message": "กรุณาตรวจสอบการตั้งค่าในบัญชีของคุณด้านล่าง"
+   },
+   "recovery_sheet_creation_date": {
+      "description": "Label for recovery sheet creation date",
+      "message": "วันที่สร้าง คือ"
+   },
+   "recovery_sheet_data_lost": {
+      "description": "",
+      "message": "ถ้าไม่มีการสำรองข้อมูล ข้อความที่เข้ารหัสแล้วจะไม่สามารถถูกถอดรหัสลับได้อีกครั้งถ้าคุณลืมรหัสผ่านกุญแจหรือในกรณีที่อุปกรณ์ชำรุดหรือมีปัญหากับโปรแกรมเสริมเบราว์เซอร์"
+   },
+   "recovery_sheet_encryption_note": {
+      "description": "Sub title",
+      "message": "Hints for encrypted communication with $1"
+   },
+   "recovery_sheet_enter_code": {
+      "description": "Label for navigation path",
+      "message": "สำหรับการติดตั้งในคอมพิวเตอร์เครื่องอื่น ต้องกรอกรหัสกู้คืนข้อมูลได้ที่"
+   },
+   "recovery_sheet_explain_pgp": {
+      "description": "",
+      "message": "Encrypted communication with $1 is a PGP-based procedure. It enables you to send encrypted emails and, at the same time, ensures that only you and the recipient are able to read them."
+   },
+   "recovery_sheet_extension_problems": {
+      "description": "List item",
+      "message": "เพราะปัญหาของโปรแกรมเสริมเบราว์เซอร์"
+   },
+   "recovery_sheet_forgot_password": {
+      "description": "List item",
+      "message": "เพราะว่าคุณลืมรหัสผ่านเข้าสู่กุญแจของคุณ"
+   },
+   "recovery_sheet_further_info": {
+      "description": "",
+      "message": "You can find more information and setting options in your $1 account under"
+   },
+   "recovery_sheet_header": {
+      "description": "Title of recovery sheet.",
+      "message": "ข้อมูลสำคัญ"
+   },
+   "recovery_sheet_in_general": {
+      "description": "Label",
+      "message": "โดยทั่วไปแล้ว เป็นสิ่งสำคัญ"
+   },
+   "recovery_sheet_invite_contacts": {
+      "description": "",
+      "message": "In your encrypted communication settings of your $1 account, you have the possibility to invite additional contacts to use encrypted communication via PGP. Contacts that have already been invited successfully can be recognized by the padlock icon next to the email address. "
+   },
+   "recovery_sheet_keep_safe": {
+      "description": "",
+      "message": "เก็บเอกสารที่พิมพ์ออกมาในสถานที่ปลอดภัย และตรวจสอบให้แน่ใจว่าไม่มีใครคนอื่นสามารถเข้าถึงรหัสกู้คืนข้อมูลนี้ได้"
+   },
+   "recovery_sheet_key_server": {
+      "description": "",
+      "message": "Other $1 users who are using the PGP procedure of GMX can be directly found in a central directory in your $1 account. If you do not want to have any entries in this directory, please deactivate this function in your $1 account settings."
+   },
+   "recovery_sheet_mobile_devices": {
+      "description": "",
+      "message": "บนอุปกรณ์เคลื่อนที่"
+   },
+   "recovery_sheet_not_working": {
+      "description": "Label for list",
+      "message": "ถ้าการสื่อสารแบบเข้ารหัสลับแล้วของคุณไม่สามารถทำงานได้ เช่น"
+   },
+   "recovery_sheet_other_computer": {
+      "description": "",
+      "message": "บนคอมพิวเตอร์เครื่องอื่น"
+   },
+   "recovery_sheet_other_contacts": {
+      "description": "",
+      "message": "การสื่อสารที่เข้ารหัสลับแล้วกับผู้อื่น"
+   },
+   "recovery_sheet_other_devices": {
+      "description": "Sub title",
+      "message": "เข้ารหัสลับการสื่อสารบนอุปกรณ์อื่น"
+   },
+   "recovery_sheet_other_devices_setup": {
+      "description": "",
+      "message": "ติดตั้งการสื่อสารแบบเข้ารหัสลับบนอุปกรณ์อื่น"
+   },
+   "recovery_sheet_other_problems": {
+      "description": "List item",
+      "message": "สำหรับเหตุผลอื่น"
+   },
+   "recovery_sheet_pgp_compat": {
+      "description": "",
+      "message": "คุณสามารถสื่อสารอย่างปลอดภัยกับคนอื่น ถ้าพวกเขาใช้การสื่อสารที่เข้ารหัสแล้ว (PGP) เหมือนกัน"
+   },
+   "recovery_sheet_print_block": {
+      "description": "Sub title of recovery sheet.",
+      "message": "กรุณาเก็บเอกสารนี้ไว้ในสถานที่ปลอดภัย"
+   },
+   "recovery_sheet_print_button": {
+      "description": "",
+      "message": "สั่งพิมพ์"
+   },
+   "recovery_sheet_print_notice": {
+      "description": "Sub title of recovery sheet.",
+      "message": "กรุณาสั่งพิมพ์เอกสารนี้และเก็บไว้ในสถานที่ปลอดภัย"
+   },
+   "recovery_sheet_provider_communication": {
+      "description": "",
+      "message": "การสื่อสารที่เข้ารหัสลับแล้ว"
+   },
+   "recovery_sheet_provider_inbox": {
+      "description": "",
+      "message": "กล่องข้อความ"
+   },
+   "recovery_sheet_provider_security": {
+      "description": "",
+      "message": "ความปลอดภัย"
+   },
+   "recovery_sheet_provider_settings": {
+      "description": "",
+      "message": "การตั้งค่า"
+   },
+   "recovery_sheet_qr_code": {
+      "description": "",
+      "message": "สแกน QR code ด้วยอุปกรณ์เคลื่อนที่ของคุณ"
+   },
+   "recovery_sheet_recommendation": {
+      "description": "",
+      "message": "คำแนะนำ"
+   },
+   "recovery_sheet_recover_data": {
+      "description": "Sub title",
+      "message": "กำลังกู้คืนข้อมูล"
+   },
+   "recovery_sheet_recovery_code": {
+      "description": "",
+      "message": "รหัสกู้คืนข้อมูล"
+   },
+   "recovery_sheet_subtitle_receipt": {
+      "description": "Sub title of recovery sheet.",
+      "message": "เอกสารกู้คืนข้อมูลสำหรับการสื่อสารที่เข้ารหัสลับแล้ว"
+   },
+   "recovery_sheet_subtitle_recover": {
+      "description": "Sub title",
+      "message": "กู้คืนข้อมูลการสื่อสารที่เข้ารหัสลับแล้ว"
+   },
+   "recovery_sheet_trusted_contacts": {
+      "description": "",
+      "message": "ด้วยรายชื่อผู้ติดต่อบน GMX คุณสามารถมั่นใจได้ว่าผู้ใช้ที่ถูกแสดงเป็นผู้ใช้ที่ถูกต้อง อย่างไรก็ตาม คุณควรตรวจยืนยันและยืนยันตัวตนด้วยที่อยู่อีเมลจากผู้ให้บริการอีเมลของอีกฝ่ายเสมอ"
+   },
+   "recovery_sheet_unknown_third": {
+      "description": "",
+      "message": "เฉพาะอุปกรณ์ที่เข้ารหัสลับบนเครื่องสื่อสารที่ปลอดภัยเท่านั้นที่จะไม่สามารถเข้าถึงข้อมูลได้โดยผู้ที่ไม่ได้รับอนุญาต"
+   },
+   "recovery_sheet_unlock_backup": {
+      "description": "",
+      "message": "การสำรองข้อมูลของคุณจะถูกถอดรหัสลับได้ต่อเมื่อมีรหัสกู้คืนข้อมูลจากเอกสารกู้คืนข้อมูลนี้เท่านั้น"
+   },
+   "reload_tab": {
+      "description": "Info message.",
+      "message": "กรุณาโหลดเพจใหม่เพื่อให้การตั้งค่ามีผล"
+   },
+   "restore_backup_dialog_button": {
+      "description": "",
+      "message": "ยืนยัน"
+   },
+   "restore_backup_dialog_headline": {
+      "description": "",
+      "message": "กรุณาใส่รหัสกู้คืนของคุณ"
+   },
+   "restore_password_dialog_button": {
+      "description": "",
+      "message": "แสดง"
+   },
+   "restore_password_dialog_headline": {
+      "description": "",
+      "message": "รหัสผ่านกุญแจของคุณ คือ"
+   },
+   "security_background_button_title": {
+      "description": "The tooltip text for the keylock button",
+      "message": "ปรับเปลี่ยนเบื้องหลังเพื่อความปลอดภัยในตัวเลือกของ Mailvelope"
+   },
+   "security_background_color_text": {
+      "description": "Security background select color text",
+      "message": "2. Now choose a color that you like"
+   },
+   "security_background_icons_text": {
+      "description": "Security background select icon text",
+      "message": "1. Choose an icon that you like"
+   },
+   "security_background_text": {
+      "description": "Security background text",
+      "message": "Your security background is displayed behind every encrypted email. To make it really safe, you should personalize it. This is how you ensure, that no one is able to reconstruct the Mailvelope interface to access your personal data."
+   },
+   "security_cache_header": {
+      "description": "Password cache header",
+      "message": "จำรหัสผ่านสำหรับเบราว์เซอร์เซสชั่นนี้"
+   },
+   "security_cache_help": {
+      "description": "Help text for cache time.",
+      "message": "ต้องเป็นตัวเลขระหว่าง 1-999"
+   },
+   "security_cache_off": {
+      "description": "Don't store password.",
+      "message": "ไม่"
+   },
+   "security_cache_on": {
+      "description": "Store password in memory for $1 minutes.",
+      "message": "ใช่ เก็บไว้ในหน่วยความจำเพื่อ"
+   },
+   "security_cache_time": {
+      "description": "Store password in memory for $1 minutes.",
+      "message": "นาที"
+   },
+   "security_display_decrypted": {
+      "description": "Label for display options",
+      "message": "แสดงข้อความที่ถอดรหัสลับแล้วที่ไหน"
+   },
+   "security_display_inline": {
+      "description": "Decrypted message display option",
+      "message": "บนเพจของผู้ให้บริการอีเมล"
+   },
+   "security_display_popup": {
+      "description": "Decrypted message display option",
+      "message": "ในหน้าต่าง Mailvelope ที่แยกต่างหาก"
+   },
+   "security_hide_armored_head": {
+      "description": "Hide header infos in armored messages",
+      "message": "ซ่อนเวอร์ชันของ Mailvelope และแสดงความคิดเห็นในกลุ่มข้อความ PGP"
+   },
+   "security_log_action": {
+      "description": "Title of the action column of the security log table.",
+      "message": "การกระทำ"
+   },
+   "security_log_add_attachment": {
+      "description": "A click on the attachment upload button as an event type",
+      "message": "ปุ่มแนบเอกสารถูกคลิก"
+   },
+   "security_log_attachment_download": {
+      "description": "Attachment downloaded as an event source",
+      "message": "ดาวน์โหลดเอกสารแนบแล้ว"
+   },
+   "security_log_backup_create": {
+      "description": "",
+      "message": "การคลิกเพื่อสร้างข้อมูลสำรอง"
+   },
+   "security_log_backup_restore": {
+      "description": "",
+      "message": "การคลิกเพื่อกู้คืนข้อมูลสำรอง"
+   },
+   "security_log_content_copy": {
+      "description": "",
+      "message": "การคัดลอกในหน้าต่างยืนยัน"
+   },
+   "security_log_decrypt_ui": {
+      "description": "",
+      "message": "ถอดรหัสลับ"
+   },
+   "security_log_decryption_operation": {
+      "description": "",
+      "message": "Message has been decrypted with: $1"
+   },
+   "security_log_dialog_cancel": {
+      "description": "",
+      "message": "การคลิกปุ่มยกเลิกในหน้าต่าง"
+   },
+   "security_log_dialog_encrypt": {
+      "description": "",
+      "message": "การคลิกปุ่มเข้ารหัสลับในหน้าต่าง"
+   },
+   "security_log_dialog_ok": {
+      "description": "",
+      "message": "การคลิกปุ่มยืนยันในหน้าต่าง"
+   },
+   "security_log_dialog_sign": {
+      "description": "",
+      "message": "คลิกเพื่อเซ็นในหน้าต่างข้อความ"
+   },
+   "security_log_editor": {
+      "description": "Message editor container as an event source",
+      "message": "Mailvelope Editor"
+   },
+   "security_log_email_viewer": {
+      "description": "Email decryption container as an event source",
+      "message": "ถอดรหัสลับอีเมล PGP"
+   },
+   "security_log_encrypt_dialog": {
+      "description": "Encrypt dialog as an event source",
+      "message": "เข้ารหัสลับหน้าต่างข้อความ"
+   },
+   "security_log_encrypt_form": {
+      "description": "Encrypt form as an event source",
+      "message": "เข้ารหัสลับแบบฟอร์ม"
+   },
+   "security_log_encrypt_ui": {
+      "description": "",
+      "message": "การเข้ารหัสลับ"
+   },
+   "security_log_encryption_operation": {
+      "description": "",
+      "message": "การเข้ารหัสลับข้อความสำหรับ $1"
+   },
+   "security_log_import_dialog": {
+      "description": "Key import dialog as an event source",
+      "message": "หน้าต่างเพื่อนำเข้า"
+   },
+   "security_log_key_backup": {
+      "description": "Message keybackup container as an event source",
+      "message": "การสำรองข้อมูลกุญแจ"
+   },
+   "security_log_key_generator": {
+      "description": "Key generator container as an event source",
+      "message": "ตัวสร้างกุญแจ"
+   },
+   "security_log_password_click": {
+      "description": "",
+      "message": "คลิกในหน้าต่างของรหัสผ่าน"
+   },
+   "security_log_password_dialog": {
+      "description": "Password dialog as an event source",
+      "message": "หน้าต่างของรหัสผ่าน"
+   },
+   "security_log_password_input": {
+      "description": "",
+      "message": "กรอกในหน้าต่างข้อความของรหัสผ่าน"
+   },
+   "security_log_remove_attachment": {
+      "description": "A click on the attachment remove button as event type",
+      "message": "เอกสารแนบถูกลบแล้ว"
+   },
+   "security_log_restore_backup_click": {
+      "description": "",
+      "message": "คลิกเพื่อกู้คืนหน้าต่างข้อความสำรอง"
+   },
+   "security_log_sign_operation": {
+      "description": "",
+      "message": "ข้อความนี้เซ็นด้วยกุญแจ $1"
+   },
+   "security_log_signature_modal_close": {
+      "description": "",
+      "message": "คลิกเพื่อปิดหน้าต่างข้อความของลายเซ็น"
+   },
+   "security_log_signature_modal_open": {
+      "description": "",
+      "message": "คลิกเพื่อเปิดหน้าต่างข้อความของลายเซ็น"
+   },
+   "security_log_source": {
+      "description": "Title of the source column of the security log table.",
+      "message": "แหล่งข้อมูล"
+   },
+   "security_log_text": {
+      "description": "Text explaining the purpose of the security log",
+      "message": "ล็อกความปลอดภัยแสดงผลกิจกรรมของผู้ใช้จากทุกส่วนของ Mailvelope"
+   },
+   "security_log_text_input": {
+      "description": "User clicked in text area",
+      "message": "อินพุทในบรรทัด"
+   },
+   "security_log_textarea_click": {
+      "description": "User clicked in text area",
+      "message": "คลิกในพื้นที่ตัวอักษร"
+   },
+   "security_log_textarea_input": {
+      "description": "User clicked in text area",
+      "message": "กรอกในพื้นที่ตัวอักษร"
+   },
+   "security_log_textarea_select": {
+      "description": "Selection of the text area as an event type",
+      "message": "การเลือกในพื้นที่ตัวอักษร"
+   },
+   "security_log_timestamp": {
+      "description": "Title of the timestamp column of the security log table.",
+      "message": "ตราประทับเวลา"
+   },
+   "security_log_verify_dialog": {
+      "description": "Verify dialog as an event source",
+      "message": "ยืนยันหน้าต่างข้อความ"
+   },
+   "security_log_viewer": {
+      "description": "Message viewer as an event source",
+      "message": "Mailvelope Viewer"
+   },
+   "security_openpgp_header": {
+      "description": "OpenPGP settings header",
+      "message": "การตั้งค่า OpenPGP"
+   },
+   "settings_backup": {
+      "description": "Tab allowing to backup and restore the settings.",
+      "message": "สำรอง"
+   },
+   "settings_general": {
+      "description": "Tab of options to display general settings.",
+      "message": "ทั่วไป"
+   },
+   "settings_keyserver": {
+      "description": "Tab of options to display key server settings.",
+      "message": "เซิร์ฟเวอร์กุญแจ"
+   },
+   "settings_provider": {
+      "description": "Tab of options to display provider (Gmail) settings.",
+      "message": "Gmail API"
+   },
+   "settings_security": {
+      "description": "Tab of options to display security settings.",
+      "message": "ความปลอดภัย"
+   },
+   "settings_security_background": {
+      "description": "Security background header",
+      "message": "พื้นหลังเพื่อความปลอดภัย"
+   },
+   "settings_security_log": {
+      "description": "Tab of options to display security log.",
+      "message": "ล็อกความปลอดภัย"
+   },
+   "settings_watchlist": {
+      "description": "Tab of options to display list of authorized domains.",
+      "message": "โดเมนที่ได้รับอนุญาต"
+   },
+   "sign_dialog_header": {
+      "description": "Header of sign dialog. Choose the person you want to sign the message with.",
+      "message": "Sign message as:"
+   },
+   "sign_error": {
+      "description": "Error during signing process.",
+      "message": "ไม่สามารถเซ็นข้อความนี้ $1"
+   },
+   "signer_unknown": {
+      "description": "Name of unknown signer.",
+      "message": "ไม่ทราบ"
+   },
+   "text_decrypt_button": {
+      "description": "Button label for decrypting the message",
+      "message": "ถอดรหัสลับ"
+   },
+   "text_decrypting": {
+      "description": "Navigation link to text decryption feature",
+      "message": "การถอดรหัสลับของข้อความ"
+   },
+   "text_encrypting": {
+      "description": "Navigation link to text encryption feature",
+      "message": "การเข้ารหัสลับของข้อความ"
+   },
+   "upload_aborting_warning": {
+      "description": "A warning for the aborting of the file upload.",
+      "message": "การอัปโหลดไฟล์จะถูกยกเลิก"
+   },
+   "upload_attachment": {
+      "description": "Text in the upload attachment button of the message editor dialog",
+      "message": "เพิ่มไฟล์"
+   },
+   "upload_drop": {
+      "description": "Text in file drop overlay area",
+      "message": "Drop the file in this area to attach it"
+   },
+   "upload_help": {
+      "description": "Text in file upload area. Sentence continues with: Upload File (Button).",
+      "message": "Drag file to this window or"
+   },
+   "upload_quota_exceeded_warning": {
+      "description": "A warning shown when the attachments upload quota is exceeded.",
+      "message": "ขนาดเอกสารแนบที่อนุญาตคือ"
+   },
+   "upload_quota_warning_headline": {
+      "description": "",
+      "message": "ขนาดเอกสารแนบใหญ่เกินไป"
+   },
+   "user_create_btn": {
+      "description": "Create user button label",
+      "message": "สร้าง"
+   },
+   "user_create_title": {
+      "description": "Title of create user page",
+      "message": "สร้างบัญชีผู้ใช้"
+   },
+   "user_keyserver_not": {
+      "description": "User ID is not synchronized with Mailvelope key server",
+      "message": "บัญชีผู้ใช้นี้ไม่เชื่อมต่อกับเซิร์ฟเวอร์กุญแจของ Mailvelope"
+   },
+   "user_keyserver_remove": {
+      "description": "A remove request has been sent to the Mailvelope key server",
+      "message": "สำหรับการยกเลิกขั้นสุดท้ายจากเซิร์ฟเวอร์กุญแจของ Mailvelope อีเมลยืนยันได้ถูกส่งไปที่ $1"
+   },
+   "user_keyserver_remove_btn": {
+      "description": "Remove user ID button label text",
+      "message": "ลบบัญชีผู้ใช้"
+   },
+   "user_keyserver_resend_confirmation_btn": {
+      "description": "Resend confirmation button label text",
+      "message": "ส่งคำยืนยันอีกครั้ง"
+   },
+   "user_keyserver_sync": {
+      "description": "User ID is synchronised with the Mailvelope key server",
+      "message": "บัญชีผู้ใช้นี้เชื่อมอยู่กับเซิร์ฟเวอร์กุญแจของ Mailvelope "
+   },
+   "user_keyserver_unverified": {
+      "description": "User ID Mailvelope key server not verified",
+      "message": "กรุณายืนยันบัญชีผู้ใช้เพื่อเชื่อมต่อกับเซิร์ฟเวอร์กุญแจของ Mailvelope"
+   },
+   "user_keyserver_upload": {
+      "description": "An upload request has been sent to the Mailvelope key server",
+      "message": "เพื่อเชื่อมต่อเซิร์ฟเวอร์ของ Mailvelope เข้ากับอีเมลยืนยันได้ถูกส่งไปที่ $1"
+   },
+   "user_remove_btn": {
+      "description": "Remove user button label",
+      "message": "ลบออก"
+   },
+   "user_remove_btn_title": {
+      "description": "Remove user button title",
+      "message": "ลบบัญชีผู้ใช้"
+   },
+   "user_remove_dialog_confirmation": {
+      "description": "Confirmation question in remove user dialog.",
+      "message": "คุณต้องการลบบัญชีนี้ออกจากกุญแจของคุณหรือไม่"
+   },
+   "user_remove_dialog_keyserver_warning": {
+      "description": "Warning message, that key will be deleted from keyserver",
+      "message": "บัญชีผู้ใช้จะถูกลบออกจาก Mailvelope เซิร์ฟเวอร์เช่นกัน"
+   },
+   "user_remove_dialog_title": {
+      "description": "Title of remove user dialog.",
+      "message": "ลบบัญชีผู้ใช้"
+   },
+   "user_revoke_btn": {
+      "description": "Revoke user button label",
+      "message": "ยกเลิก"
+   },
+   "user_revoke_btn_title": {
+      "description": "Revoke user button title",
+      "message": "ยกเลิกบัญชีผู้ใช้"
+   },
+   "user_revoke_dialog_confirmation": {
+      "description": "Confirmation question in revoke user dialog.",
+      "message": "คุณยังต้องการยกเลิกหรือไม่"
+   },
+   "user_revoke_dialog_description": {
+      "description": "Description in revoke user dialog.",
+      "message": "หลังจากทำการยกเลิก บัญชีผู้ใช้สำหรับกุญแจนี้จะไม่สามารถใช้งานได้อย่างถาวร "
+   },
+   "user_revoke_dialog_title": {
+      "description": "Title of revoke user dialog.",
+      "message": "ยกเลิกบัญชีผู้ใช้"
+   },
+   "user_title": {
+      "description": "Title of user page",
+      "message": "บัญชีผู้ใช้"
+   },
+   "usersignatures_title": {
+      "description": "Title of signatures panel in user.",
+      "message": "การตรวจยืนยัน"
+   },
+   "verify_error": {
+      "description": "Error during verification process.",
+      "message": "ไม่สามารถตรวจยืนยันข้อความนี้ได้ $1"
+   },
+   "verify_frame_help_text": {
+      "description": "Help text on verify frame.",
+      "message": "Click to verify signature"
+   },
+   "waiting_dialog_decryption_failed": {
+      "description": "Error message in the waiting dialog after failing to decrypt a message",
+      "message": "Decryption failed."
+   },
+   "watchlist_command_create": {
+      "description": "Create entry in watchlist.",
+      "message": "เพิ่มข้อมูลใหม่"
+   },
+   "watchlist_command_edit": {
+      "description": "Edit entry in watchlist.",
+      "message": "แก้ไข"
+   },
+   "watchlist_delete_confirmation": {
+      "description": "Message in the watchlist delete confirmation dialog.",
+      "message": "คุณต้องการลบเว็บไซต์นี้ออกจากโดเมนที่ได้รับอนุญาตหรือไม่"
+   },
+   "watchlist_expose_api": {
+      "description": "Expose API to Webmailer.",
+      "message": "API"
+   },
+   "watchlist_record_title": {
+      "description": "Title of the watchlist editor dialog.",
+      "message": "โดเมนที่ได้รับอนุญาต"
+   },
+   "watchlist_remove_dialog_title": {
+      "description": "Title of delete watchlist dialog.",
+      "message": "Remove domain"
+   },
+   "watchlist_title_active": {
+      "description": "Entry in watchlist is active.",
+      "message": "เปิดใช้งาน"
+   },
+   "watchlist_title_frame": {
+      "description": "Web domain URL match pattern of site in watchlist.",
+      "message": "รูปแบบโดเมน"
+   },
+   "watchlist_title_https_only": {
+      "description": "Only allow URLs with HTTPS scheme in watchlist.",
+      "message": "เฉพาะ HTTPS "
+   },
+   "watchlist_title_scan": {
+      "description": "Scan status of site in watchlist.",
+      "message": "เปิดใช้งาน"
+   },
+   "watchlist_title_site": {
+      "description": "Site in watchlist.",
+      "message": "เว็บไซต์"
+   },
+   "word_or": {
+      "description": "Separate list of elements.",
+      "message": "หรือ"
+   },
+   "wrong_restore_code": {
+      "description": "",
+      "message": "รหัสกู้คืนไม่ถูกต้อง"
+   }
+}
